@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jlaso/aws-s3-wrapper": "dev-master"
+    }
+}
